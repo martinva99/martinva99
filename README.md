@@ -21,4 +21,4 @@ Before diving into programming, I spent several years working as a primary schoo
 
 If you want to chat about code, tech, or anything else, feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/martín-veiga-álvarez-b60427258)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martín-veiga-álvarez-b60427258)
